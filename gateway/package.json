@@ -2,5 +2,8 @@
   "name": "gateway",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
 }
